@@ -5,8 +5,8 @@ import random
 # Config
 amount = 10000
 allowed_chars = string.ascii_lowercase + string.ascii_uppercase + string.digits
-prefix = "RPG-"
-postfix = "-APS01"
+prefix = "CCG-"
+postfix = "-CCG"
 output_path = "generated_codes.csv"
 
 # Code array 
